@@ -22,6 +22,7 @@ Firebase for user authentication (if applicable).
 
 Live APP - https://todo-app-ten-henna-85.vercel.app/
 
+![Landing Page (2)](https://github.com/user-attachments/assets/53d3ce7f-df67-490e-aed7-5f333ff8d025)
 
 # Getting Started with Create React App
 
