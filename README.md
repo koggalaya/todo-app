@@ -1,3 +1,28 @@
+Todo App
+
+This Todo App is a task management application designed to help users streamline their workflow with a clean, minimalist, and user-friendly interface. It includes user authentication, allowing users to register, log in, and manage their personal tasks.
+
+Features
+User Authentication: Register and log in to securely manage your tasks.
+Task Management: Add, edit, delete, and mark tasks as completed.
+Responsive Design: The app is fully responsive, providing a consistent experience across devices.
+Dark Mode Interface: A visually comfortable dark theme for extended use.
+
+Design Highlights
+Primary Color: Soft blue for a calm and reliable interface.
+Secondary Color: Lighter blue accents for contrast and readability.
+Neutral Colors: Black and white for clean, professional visuals.
+Typography: Sans-serif fonts for modern, readable text with bold headings and clear hierarchy.
+
+Technologies Used
+React for the front-end.
+Formik & Yup for form handling and validation.
+Tailwind CSS for styling and responsive design.
+Firebase for user authentication (if applicable).
+
+Live APP - https://todo-app-ten-henna-85.vercel.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
